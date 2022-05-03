@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+body {
+    background-color: #393E46
+}
+
+h1 {
+    font-family: 'Cinzel Decorative';
+    /* color: #FA7D09; */
+    color: #FFA100;
+    /* box-shadow: 1px 1px 5px 1px rgb(0, 0, 0); */
+}
+
+#t-color {
+    font-family: 'Reggae One', cursive;
+    color: #FFA100;
+    border-radius: 15px;
+    background-color: #393E46;
+}
+
+.text-change {
+    font-family: 'Reggae One', cursive;
+    color: white;
+}
+
+button { 
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px 1px #393E46;
+    background-color: #434ca8;
+    color: rgb(32, 32, 32);
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    display: flex;
+}
+
+button:hover {
+    background-color: #FFA100;
+    color: white;
+    border: 1px solid white;
+}
+
+.kard{background-color: #5673a149;
+border-radius: 30px;
+box-shadow: 5px 5px 5px 5px black;
+}
